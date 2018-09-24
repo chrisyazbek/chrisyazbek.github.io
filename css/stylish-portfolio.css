@@ -157,7 +157,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #1D809F;
+  background: #ffc107;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -173,7 +173,7 @@ h6 {
 .sidebar-nav li.sidebar-nav-item a {
   display: block;
   text-decoration: none;
-  color: #fff;
+  color: #000;
   padding: 15px;
 }
 
